@@ -8,9 +8,6 @@
 
     <!-- REDIRECT TO NEW WEB PAGE -->
     <!-- <meta http-equiv="refresh" content="0; url=http://docathon.github.io/docathon" /> -->
-    <script type="text/javascript">
-        window.location.href = "http://" + "docathon.github.io/docathon/" + window.location.pathname
-    </script>
 
     {% block head %}
     <meta charset="utf-8" />
@@ -63,6 +60,9 @@
     {% endblock head %}
 </head>
 <body>
+    <script type="text/javascript">
+        window.location.href = "http://" + "docathon.github.io/docathon/" + window.location.pathname
+    </script>
     {% if DISPLAY_HEADER or DISPLAY_HEADER is not defined %}
     <header>
         {% if DISPLAY_MENU or DISPLAY_MENU is not defined %}
