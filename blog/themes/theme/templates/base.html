@@ -7,8 +7,10 @@
 <head>
 
     <!-- REDIRECT TO NEW WEB PAGE -->
-    <meta http-equiv="refresh" content="0; url=http://docathon.github.io/docathon" />
-
+    <!-- <meta http-equiv="refresh" content="0; url=http://docathon.github.io/docathon" /> -->
+    <script type="text/javascript">
+        window.location.href = "http://" + "docathon.github.io/docathon/" + window.location.pathname
+    </script>
 
     {% block head %}
     <meta charset="utf-8" />
