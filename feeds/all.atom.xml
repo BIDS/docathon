@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Docathon</title><link href="https://bids.github.io/docathon/" rel="alternate"></link><link href="https://bids.github.io/docathon/feeds/all.atom.xml" rel="self"></link><id>https://bids.github.io/docathon/</id><updated>2017-03-10T00:00:00-08:00</updated><entry><title>Docathon recap!</title><link href="https://bids.github.io/docathon/docathon-day-five.html" rel="alternate"></link><published>2017-03-10T00:00:00-08:00</published><updated>2017-03-10T00:00:00-08:00</updated><author><name>Chris Holdgraf</name></author><id>tag:bids.github.io,2017-03-10:docathon/docathon-day-five.html</id><summary type="html">&lt;p&gt;It's hard to believe but the week has already flown past, and we now live in a new, post-docathon world. Little did we realize the paucity of documentation that we once had, and the cornucopia of new examples, tutorials, and docstrings that now exist in the open-source world. OK maybe that's a little dramatic, but I'm super impressed with all of the great work that people did over the course of this week. Whether it was migrating documentation over to Sphinx, creating beautiful sphinx galleries to show off visualizations, or launching that new project website, I want to thank everybody for pitching in and being part of the first docathon!&lt;/p&gt;
+&lt;p&gt;Let's take a look at the final rundown of stats...&lt;/p&gt;
+&lt;div class="section" id="the-final-project-docboard"&gt;
+&lt;h2&gt;The final project docboard&lt;/h2&gt;
+&lt;p&gt;First things first, aere's what our activity looked like for the week. I increased the time span beforehand so that we can get a better look at the context for this amount of activity. That's, like, a thousand times more documentation than there was before this week. How awesome is that?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Global Activity&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt="" src="https://bids.github.io/docathon/images/global_activity.png" style="width: 60%;" /&gt;
+&lt;p&gt;And here's the final project leaderboard:&lt;/p&gt;
+&lt;img alt="" src="https://bids.github.io/docathon/images/project_summary.png" style="width: 60%;" /&gt;
+&lt;p&gt;The winner goes to.............&lt;/p&gt;
+&lt;div class="parrotbox docutils container"&gt;
+&lt;img alt="parrota" src="http://cultofthepartyparrot.com/parrots/aussiecongaparrot.gif" /&gt; &lt;img alt="parrota" src="http://cultofthepartyparrot.com/parrots/aussiecongaparrot.gif" /&gt; &lt;img alt="parrota" src="http://cultofthepartyparrot.com/parrots/aussiecongaparrot.gif" /&gt; &lt;img alt="parrota" src="http://cultofthepartyparrot.com/parrots/aussiecongaparrot.gif" /&gt; &lt;img alt="parrota" src="http://cultofthepartyparrot.com/parrots/aussiecongaparrot.gif" /&gt; &lt;img alt="parrota" src="http://cultofthepartyparrot.com/parrots/aussiecongaparrot.gif" /&gt; &lt;img alt="parrota" src="http://cultofthepartyparrot.com/parrots/aussiecongaparrot.gif" /&gt; &lt;img alt="parrota" src="http://cultofthepartyparrot.com/parrots/aussiecongaparrot.gif" /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Pycortex!&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="parrotbox docutils container"&gt;
+&lt;img alt="parrot" src="http://cultofthepartyparrot.com/parrots/congaparrot.gif" /&gt; &lt;img alt="parrot" src="http://cultofthepartyparrot.com/parrots/congaparrot.gif" /&gt; &lt;img alt="parrot" src="http://cultofthepartyparrot.com/parrots/congaparrot.gif" /&gt; &lt;img alt="parrot" src="http://cultofthepartyparrot.com/parrots/congaparrot.gif" /&gt; &lt;img alt="parrot" src="http://cultofthepartyparrot.com/parrots/congaparrot.gif" /&gt; &lt;img alt="parrot" src="http://cultofthepartyparrot.com/parrots/congaparrot.gif" /&gt; &lt;img alt="parrot" src="http://cultofthepartyparrot.com/parrots/congaparrot.gif" /&gt; &lt;img alt="parrot" src="http://cultofthepartyparrot.com/parrots/congaparrot.gif" /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="and-a-big-thanks-to-our-participants"&gt;
+&lt;h2&gt;And a big thanks to our participants!&lt;/h2&gt;
+&lt;p&gt;We got a lot of great contributions from people that signed up as participants as well. We were a pretty diverse group, spread out across all parts of the world:&lt;/p&gt;
+&lt;img alt="" src="https://cloud.githubusercontent.com/assets/1839645/23828598/cd21501e-068b-11e7-85d8-ee42a0b86762.png" style="width: 80%;" /&gt;
+&lt;p&gt;And of those users, we had a few very special folks that really knocked it out of the park this week! Here's our user leaderboard:&lt;/p&gt;
+&lt;img alt="" src="https://bids.github.io/docathon/images/users_week.png" style="width: 90%;" /&gt;
+&lt;p&gt;It looks like &lt;strong&gt;r-b-g-b&lt;/strong&gt;, &lt;strong&gt;lmcinnes&lt;/strong&gt;, and &lt;strong&gt;alexhuth&lt;/strong&gt; nabbed the top spots, but I'd like to think that everybody is a winner at the docathon :)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="if-you-want-to-continue-the-party"&gt;
+&lt;h2&gt;If you want to continue the party!&lt;/h2&gt;
+&lt;p&gt;If you want to continue connecting with fellow documenters out there, we're going to open up a channel in the &lt;a class="reference external" href="http://www.writethedocs.org/slack/"&gt;Write the Docs&lt;/a&gt; slack room. It'll be a great way to connect with the broader documentation community. You can also always shoot us a tweet &amp;#64;docathon, or open an issue on our repo.&lt;/p&gt;
+&lt;p&gt;Once again - thanks so much for participating in the docathon this year. We hope that you enjoyed it, and that you or your project can be a little bit prouder of your documentation now that it's over. We're excited to do it again soon!&lt;/p&gt;
+&lt;p&gt;Until then,&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The Docathon Team&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="communication"></category><category term="coding"></category></entry><entry><title>Docathon Day Four: Galaxy Hub jockeying for first place</title><link href="https://bids.github.io/docathon/docathon-day-four.html" rel="alternate"></link><published>2017-03-09T00:00:00-08:00</published><updated>2017-03-09T00:00:00-08:00</updated><author><name>Chris Holdgraf</name></author><id>tag:bids.github.io,2017-03-09:docathon/docathon-day-four.html</id><summary type="html">&lt;p&gt;You know that story about the tortoise and the hare? Where the slow, methodical approach of the tortoise ultimately overcomes the fast but inconsistent progress of the hare? Well there is a little-known second chapter to that story, where the tortoise manages to develop cloaking technology such that it is rendered invisible to the hare. As the hare nears the finish line the tortoise lowers its invisibility shield, revealing that it had actually been cruising along on its own little jetpack the whole time.&lt;/p&gt;
+&lt;p&gt;Well that's basically what happened today with the docathon. While pycortex was enjoying an early victory, galaxy-hub decided to show up to the stats board (note: this definitely, assuredly, totally obviously did not have anything to do with a bug that I wrote into the stats plotting function).&lt;/p&gt;
+&lt;p&gt;We've only got one more day of docathoning remaining! Let's see who finishes on top, and who can make the most commits in the final day! I heard there might even be some prizes for the users with the most commits...&lt;/p&gt;
+&lt;div class="section" id="docstars-for-the-day"&gt;
+&lt;h2&gt;Docstars for the day&lt;/h2&gt;
+&lt;p&gt;I'm really impressed that we've got four straight days of documenting under our belts. Who'd have thought you could motivate open-source projects to spend so much time on their docs :)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Global Activity&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt="" src="https://bids.github.io/docathon/images/global_activity.png" style="width: 60%;" /&gt;
+&lt;p&gt;There are a few new projects that have shown some great progress in the last day!&lt;/p&gt;
+&lt;img alt="" src="https://bids.github.io/docathon/images/project_summary.png" style="width: 60%;" /&gt;
+&lt;p&gt;First of all is the aforementioned &lt;a class="reference external" href="https://docs.galaxyproject.org/en/master/"&gt;galaxy hub&lt;/a&gt;, which is an open platform for biomedical computation. Next up is &lt;a class="reference external" href="http://pandas.pydata.org/"&gt;pandas&lt;/a&gt;, everybody's favorite data wrangling, munging, and pseudo-databasing tool. Finally we have a newcomer to the open-source world, as &lt;a class="reference external" href="https://github.com/diatomic/diy"&gt;diy&lt;/a&gt; recently unveiled itself to the world as a package for parallel computing, like a butterfly out of the cocoon.&lt;/p&gt;
+&lt;p&gt;And let's see what the user board looks like:&lt;/p&gt;
+&lt;img alt="" src="https://bids.github.io/docathon/images/users_week.png" style="width: 60%;" /&gt;
+&lt;p&gt;OK I'm not even going to mention &lt;strong&gt;r-b-g-b&lt;/strong&gt;, who has apparently done nothing but drink red bull and document code for the last 3 days. For the users who are not superhuman, we should give a shout out to &lt;strong&gt;mrzv&lt;/strong&gt;, &lt;strong&gt;ketch&lt;/strong&gt;, and &lt;strong&gt;spopham&lt;/strong&gt; for giving us a day 4 bump.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="one-more-day-to-go"&gt;
+&lt;h2&gt;One more day to go!!!&lt;/h2&gt;
+&lt;p&gt;I can't believe it's almost over! I'm amazed at all the great improvements that I've seen over the last few days. Let's finish strong with a flurry of commits the likes of which the world has never seen before!&lt;/p&gt;
+&lt;div class="parrotbox docutils container"&gt;
+&lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt; &lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt; &lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt; &lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt; &lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt; &lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt; &lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt; &lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt;&lt;/div&gt;
+&lt;p&gt;Go forth and document!&lt;/p&gt;
+&lt;div class="parrotbox docutils container"&gt;
+&lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt; &lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt; &lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt; &lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt; &lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt; &lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt; &lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt; &lt;img alt="parrot" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;The Docathon Team&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="communication"></category><category term="coding"></category></entry><entry><title>Docathon Day Three: I'll have what pycortex is having</title><link href="https://bids.github.io/docathon/docathon-day-three.html" rel="alternate"></link><published>2017-03-08T00:00:00-08:00</published><updated>2017-03-08T00:00:00-08:00</updated><author><name>Chris Holdgraf</name></author><id>tag:bids.github.io,2017-03-08:docathon/docathon-day-three.html</id><summary type="html">&lt;p&gt;Every civilization has its heroes. Some are soldiers, politicians, teachers, mentors. And some are documentors. Today we celebrate the heroes of documentation (well, of the last 24 hours anyway).&lt;/p&gt;
+&lt;p&gt;Firstly we celebrate &lt;a class="reference external" href="http://gallantlab.org/pycortex/docs/"&gt;pycortex&lt;/a&gt;, which has maintained a documentation streak not seen since the great Steve McDoccerson back in the late 80s. Way to go pycortex!&lt;/p&gt;
+&lt;p&gt;We also celebrate the unsung heroes. Not because they do not do amazing work, but because they...do not use Github. Sadly our scrapers aren't working with non-github projects, but that hasn't stopped &lt;a class="reference external" href="http://yt-project.org/"&gt;yt&lt;/a&gt; from converting all of their documentation to &lt;a class="reference external" href="http://sphinx-gallery.readthedocs.io/en/latest/"&gt;sphinx-gallery&lt;/a&gt; during the docathon.&lt;/p&gt;
+&lt;p&gt;Finally, we celebrate those who are halfway they - AKA, all of you! We're nearing the end of Day 03 of the first docathon, and I'm amazed at what people have put together already. Truly, you are all the heroes that we deserve.&lt;/p&gt;
+&lt;div class="section" id="docstars-for-the-day"&gt;
+&lt;h2&gt;Docstars for the day&lt;/h2&gt;
+&lt;p&gt;We are keeping up the pace! Let's keep it going for two more days!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Global Activity&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt="" src="https://bids.github.io/docathon/images/global_activity.png" style="width: 60%;" /&gt;
+&lt;p&gt;It almost goes without saying at this point, but pycortex has maintained its superhuman documenting pace. Will they ever slow down?!&lt;/p&gt;
+&lt;img alt="" src="https://bids.github.io/docathon/images/project_summary.png" style="width: 60%;" /&gt;
+&lt;p&gt;We also wanna give a shout out to &lt;a class="reference external" href="http://matplotlib.org/"&gt;matplotlib&lt;/a&gt; which is making the noble effort to create a sphinx gallery, as well as &lt;a class="reference external" href="http://quanteda.io/"&gt;quanteda&lt;/a&gt; which wins the prize for &amp;quot;awesomest documentation in R package so far&amp;quot; Yeah!&lt;/p&gt;
+&lt;p&gt;And let's not forget about the users that are making all of this possible. I'm beginning to think some of you are gaming the system ;-) but all is fair game in the world of documentation:&lt;/p&gt;
+&lt;img alt="" src="https://bids.github.io/docathon/images/users_week.png" style="width: 60%;" /&gt;
+&lt;p&gt;Congrats to &lt;strong&gt;r-b-g-b&lt;/strong&gt;, &lt;strong&gt;alexhuth&lt;/strong&gt;, and &lt;strong&gt;lmcinnes&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="two-more-days"&gt;
+&lt;h2&gt;Two more days&lt;/h2&gt;
+&lt;p&gt;Keep up the momentum as we head into the home stretch of the docathon! And don't forget to get those PRs merged sooner than later, so that they show up on the docaboards. Looking forward to finishing strong and seeing what you all come up with!&lt;/p&gt;
+&lt;p&gt;Until then, I leave you with our new mascot, the true hero of the day:&lt;/p&gt;
+&lt;img alt="" src="https://github.com/BIDS/docathon/blob/master/blog/content/images/parrot.gif?raw=true" /&gt;
+&lt;p&gt;&lt;em&gt;The Docathon Team&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="communication"></category><category term="coding"></category></entry><entry><title>Docathon Day Two Update: Even doccier</title><link href="https://bids.github.io/docathon/docathon-day-two.html" rel="alternate"></link><published>2017-03-07T00:00:00-08:00</published><updated>2017-03-07T00:00:00-08:00</updated><author><name>Chris Holdgraf</name></author><id>tag:bids.github.io,2017-03-07:docathon/docathon-day-two.html</id><summary type="html">&lt;p&gt;As the sun goes down on Docathon Day two, we have more great contributions to celebrate! At BIDS, we held a special session of The Hacker Within, teaching attendees how to set up Travis to auto-build their own documentation. But you don't care about this...you want to get to the stats!&lt;/p&gt;
+&lt;div class="section" id="docstars-for-the-day"&gt;
+&lt;h2&gt;Docstars for the day&lt;/h2&gt;
+&lt;p&gt;We got another nice bump in commits for the day, as seen on our global activity board:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Global Activity&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt="" src="https://bids.github.io/docathon/images/global_activity.png" style="width: 60%;" /&gt;
+&lt;p&gt;And here is the list of projects that upped their documentation game:&lt;/p&gt;
+&lt;img alt="" src="https://bids.github.io/docathon/images/project_summary.png" style="width: 60%;" /&gt;
+&lt;p&gt;Way to go &lt;a class="reference external" href="http://pmagpy.github.io/"&gt;PMagPy&lt;/a&gt;, for managing to hit the top three two days running. In addition, we saw two new leaders pop up in &lt;a class="reference external" href="http://gallantlab.org/pycortex/docs/"&gt;pycortex&lt;/a&gt;, which creates beautiful javascript maps of brain activity, and &lt;a class="reference external" href="https://github.com/scikit-learn-contrib/hdbscan"&gt;HDBSCAN&lt;/a&gt;, which is a high-performance implementation of a machine learning method built for scikit-learn. Way to go!&lt;/p&gt;
+&lt;p&gt;Our user leaderboard saw three new folks at the top today:&lt;/p&gt;
+&lt;img alt="" src="https://bids.github.io/docathon/images/users_week.png" style="width: 60%;" /&gt;
+&lt;p&gt;Congrats to &lt;strong&gt;lmcinnes&lt;/strong&gt;, &lt;strong&gt;staeiou&lt;/strong&gt;, and another victory lap for &lt;strong&gt;willingc&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="quick-notes"&gt;
+&lt;h2&gt;Quick notes&lt;/h2&gt;
+&lt;p&gt;A few projects have been working on a branch that isn't master for their doc work. If you won't merge this before the end of the week, let us know on slack or via a github issue which branch you're working on. This way we can give you credit as you make new commits!&lt;/p&gt;
+&lt;p&gt;We'll try to get the youtube video from yesterday's lecture split up and combined with links to repositories of information by sometime tomorrow. In the meantime, I want you all to keep documenting! Do it for the partyparrot!&lt;/p&gt;
+&lt;img alt="" src="http://cultofthepartyparrot.com/parrots/middleparrot.gif" /&gt;
+&lt;p&gt;Until then,&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The Docathon Team&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="communication"></category><category term="coding"></category></entry><entry><title>The Docathon is One Day Old!</title><link href="https://bids.github.io/docathon/docathon-day-one.html" rel="alternate"></link><published>2017-03-06T00:00:00-08:00</published><updated>2017-03-06T00:00:00-08:00</updated><author><name>Chris Holdgraf</name></author><id>tag:bids.github.io,2017-03-06:docathon/docathon-day-one.html</id><summary type="html">&lt;p&gt;The docathon just turned one (day old)! Here's a quick update to congratulate everybody on a great first day.&lt;/p&gt;
+&lt;div class="section" id="updates"&gt;
+&lt;h2&gt;Updates&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;We kicked off the week at BIDS by hosting a half-day of &lt;a class="reference external" href="https://www.youtube.com/watch?v=ikT_xnTFHC0"&gt;Documentation Tutorials&lt;/a&gt;. These were live-streamed on &lt;a class="reference external" href="https://www.youtube.com/watch?v=ikT_xnTFHC0"&gt;youtube&lt;/a&gt; for your viewing pleasure!&lt;/li&gt;
+&lt;li&gt;We also demoed a &lt;a class="reference external" href="https://github.com/choldgraf/sphinx_template"&gt;template repository&lt;/a&gt; to help you get sphinx / numpydoc / sphinx-gallery working with your project. Use that along with this &lt;a class="reference external" href="https://github.com/choldgraf/zero_to_docs"&gt;guide repository&lt;/a&gt; to help you get started!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="check-out-the-docboards"&gt;
+&lt;h2&gt;Check out the docboards!&lt;/h2&gt;
+&lt;p&gt;My favorite thing about today is that you can totally see a bump in the documentation commits for our projects. You can check that out on our global activity board below:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Global Activity&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt="" src="https://bids.github.io/docathon/images/global_activity.png" style="width: 60%;" /&gt;
+&lt;p&gt;We should also give a shout out to our docstar projects that showed a big bump in activity today. Here's our docboard for project commits:&lt;/p&gt;
+&lt;img alt="" src="https://bids.github.io/docathon/images/project_summary.png" style="width: 60%;" /&gt;
+&lt;p&gt;Three cheers for:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://pmagpy.github.io/"&gt;PMagPy&lt;/a&gt;, a python project for analyzing paleomagnetic data&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://gallantlab.github.io/cottoncandy/"&gt;cottoncandy&lt;/a&gt;, a project for storing and flexibly accessing numpy data on Amazon S3.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://bids.github.io/docathon/pages/projects/Sylius.html"&gt;Sylius&lt;/a&gt;, a platform for e-commerce using PHP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We also got a big bump in commits from individual users! Here's what everybody has been up to:&lt;/p&gt;
+&lt;img alt="" src="https://bids.github.io/docathon/images/users_all.png" style="width: 60%;" /&gt;
+&lt;p&gt;Let's give a shout out to this day's docstars &lt;strong&gt;anwarnunez&lt;/strong&gt;, &lt;strong&gt;willingc&lt;/strong&gt;, and &lt;strong&gt;swanson-hysell&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="keep-it-going"&gt;
+&lt;h2&gt;Keep it going!&lt;/h2&gt;
+&lt;p&gt;We look forward to seeing what comes next tomorrow. The working groups will be holding sessions once again, though we've gotten a lot of great contributions from people all over the country! We're making great progress, so let's keep the momentum through tomorrow!&lt;/p&gt;
+&lt;p&gt;Until then,&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The Docathon Team&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="communication"></category><category term="coding"></category></entry><entry><title>Three quick tips for the docathon</title><link href="https://bids.github.io/docathon/three-steps-to-start.html" rel="alternate"></link><published>2017-03-03T00:00:00-08:00</published><updated>2017-03-03T00:00:00-08:00</updated><author><name>Chris Holdgraf</name></author><id>tag:bids.github.io,2017-03-03:docathon/three-steps-to-start.html</id><summary type="html">&lt;p&gt;The Docathon is only a few days away! Thanks to everybody for agreeing to take a little bit of your time this week, and helping build great documentation.&lt;/p&gt;
+&lt;p&gt;A few folks have asked about tips for being as effective as possible during the week. Below are three steps you can take to make the most of your time.&lt;/p&gt;
+&lt;div class="section" id="prepare"&gt;
+&lt;h2&gt;Prepare!&lt;/h2&gt;
+&lt;p&gt;The best way to make sure something gets done is to make a clear, actionable plan.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For projects&lt;/strong&gt;, you should identify parts of the documentation that could use improvement, and &lt;strong&gt;create issues&lt;/strong&gt; so that people know what to work on. &lt;a class="reference external" href="https://github.com/matplotlib/matplotlib/projects/1"&gt;Here's an example&lt;/a&gt; of Matplotlib's Docathon project plan. Note how issues are tagged to make it clear which are easy contributions. Also, come up with a plan for how you'll get those changes merged! Make sure you have developer time to be response for new pull requests, and be welcoming to PRs for new contributors. We've put together a &lt;a class="reference external" href="https://bids.github.io/docathon/encouraging-user-docathon.html"&gt;short guide&lt;/a&gt; that gives you some extra steps to take in preparing for the event.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For participants&lt;/strong&gt;, you should think about some projects that you'd like to contribute to (even better if they're also signed up with the docathon). Check out our &lt;a class="reference external" href="https://bids.github.io/docathon/pages/projects/projects.html"&gt;projects page&lt;/a&gt; if you want some inspiration. We've create a page for each project that has useful information to help you get started, including a list of open doc-related issues. For example, here is the &lt;a class="reference external" href="https://bids.github.io/docathon/pages/projects/matplotlib.html"&gt;matplotlib page&lt;/a&gt;. Some projects have even put together a specific page to handle documentation during the docathon. For more tips, &lt;a class="reference external" href="https://bids.github.io/docathon/contributing-documentation.html"&gt;here's a short list of ideas&lt;/a&gt; that you can follow to get started contributing to projects.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="tag-your-commits"&gt;
+&lt;h2&gt;Tag your commits!&lt;/h2&gt;
+&lt;p&gt;Any documentation commits should &lt;strong&gt;include the words &amp;quot;doc&amp;quot;, &amp;quot;documentation&amp;quot;, or &amp;quot;docathon&amp;quot;&lt;/strong&gt; in the commit message. During the week, we'll be keeping track of stats on who's contributed. This will be displayed on our lovely &lt;a class="reference external" href="https://bids.github.io/docathon/pages/stats.html"&gt;stats page&lt;/a&gt;. Below are the current leaders in both projects and users. We'll update these plots a few times each day so that we can congratulate those that have made contributions. You can also click a plot to go to a summary page.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Projects&lt;/strong&gt;&lt;/p&gt;
+&lt;a class="reference external image-reference" href="https://bids.github.io/docathon/pages/projects/projects.html"&gt;&lt;img alt="project commits" class="align-center" src="https://bids.github.io/docathon/images/project_summary.png" style="height: 300px;" /&gt;&lt;/a&gt;
+&lt;p&gt;&lt;strong&gt;Users&lt;/strong&gt;&lt;/p&gt;
+&lt;a class="reference external image-reference" href="https://bids.github.io/docathon/pages/users.html"&gt;&lt;img alt="user commits" class="align-center" src="https://bids.github.io/docathon/images/users_all.png" style="height: 300px;" /&gt;&lt;/a&gt;
+&lt;p&gt;That said, our biggest goal for the docathon is to push our community towards making their projects more people-friendly. If you can say that you've done this at the end of the week, then we'll be happy regardless of what kind of paper trail you leave behind.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="reach-out"&gt;
+&lt;h2&gt;Reach out&lt;/h2&gt;
+&lt;p&gt;Since we're scattered all over the place, our goal is to provide a little community while we're all working on this together. We'll reach out periodically via email to give updates on progress that has been made, but we'd love to see discussion going on interactively. You can take these steps to connect with others during the docathon:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="https://docathon.herokuapp.com/"&gt;slack chatroom&lt;/a&gt;. There are channels for general conversation, and a few for specific sites if you're working with one of the groups.&lt;/li&gt;
+&lt;li&gt;Tune in to the &lt;a class="reference external" href="https://www.youtube.com/watch?v=ikT_xnTFHC0"&gt;tutorials via youtube&lt;/a&gt; on the first day. Or if you're in Berkeley, you should &lt;a class="reference external" href="https://www.eventbrite.com/e/bids-docathon-kickoff-tickets-32302896834?aff=mcivte"&gt;join us in person&lt;/a&gt;! &lt;a class="reference external" href="https://bids.github.io/docathon/pages/hosts/bids.html"&gt;Here's a list&lt;/a&gt; of topics that we'll cover.&lt;/li&gt;
+&lt;li&gt;Find a working group in one of &lt;a class="reference external" href="https://bids.github.io/docathon/pages/hosts.html"&gt;these locations&lt;/a&gt;. Each site has their own plan for how they'll structure work during the week. For example, BIDS will be working for a few hours in the afternoon each day (that's so we have an excuse to bring in coffee ;-) ).&lt;/li&gt;
+&lt;li&gt;Be ready to discuss documentation in your projects! For many projects there will be a flurry of commits improving documentation. Make sure to chime in, discuss improvements that can be made, open issues for next steps, and generally work as a team to get things done.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We hope that these tips will be useful in getting you up and running with the docathon. Ultimately, we just want you all to have fun, and to come out of the week with a better, more beautiful set of open source docs. We're looking forward to working along with you soon!&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="communication"></category><category term="coding"></category></entry><entry><title>Don't forget to register!</title><link href="https://bids.github.io/docathon/registration.html" rel="alternate"></link><published>2017-02-27T08:00:00-08:00</published><updated>2017-02-27T08:00:00-08:00</updated><author><name>Nelle Varoquaux</name></author><id>tag:bids.github.io,2017-02-27:docathon/registration.html</id><summary type="html">&lt;p&gt;As the Docathon draws near (t-minus 7 days!), don't forget to register if you'd like to
+come physically to one of the host locations! During the week there will be docathon groups working remotely at these locations:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;BIDS, UC Berkeley, CA: &lt;a class="reference external" href="https://www.eventbrite.com/e/bids-docathon-kickoff-tickets-32302896834?aff=mcivte"&gt;register here&lt;/a&gt; | &lt;a class="reference external" href="pages/hosts/bids.html"&gt;Agenda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;eScience Institute, UW Seattle, WA : &lt;a class="reference external" href="https://goo.gl/forms/GMyMPJZ9eLT6eQuF2"&gt;register here&lt;/a&gt; | &lt;a class="reference external" href="pages/hosts/uwescience.html"&gt;Agenda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Digital Fellows (GCDI), The Graduate Center, NY : &lt;a class="reference external" href="https://www.eventbrite.com/e/doc-a-thon-tickets-32309998074"&gt;register here&lt;/a&gt; | &lt;a class="reference external" href="pages/hosts/gc.html"&gt;Agenda&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Docathon Kickoff&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In addition, on the first day we'll have a kickoff event at BIDS with some tutorials to help you build great documentation (&lt;a class="reference external" href="https://www.eventbrite.com/e/bids-docathon-kickoff-tickets-32302896834?aff=mcivte"&gt;signup here&lt;/a&gt;). We'll be streaming this live on the internet as well, so check back soon for a link.&lt;/p&gt;
+</summary><category term="communication"></category><category term="coding"></category></entry><entry><title>How to contribute to documentation as a new user</title><link href="https://bids.github.io/docathon/contributing-documentation.html" rel="alternate"></link><published>2017-02-26T00:00:00-08:00</published><updated>2017-02-26T00:00:00-08:00</updated><author><name>Chris Holdgraf</name></author><id>tag:bids.github.io,2017-02-26:docathon/contributing-documentation.html</id><summary type="html">&lt;p&gt;Contributing to a project is often a daunting challenge. Each project has an
+idiosyncratic way of organizing folders, accepting contributions, writing
+examples, etc. Fortunately, documentation is a great way to get started. You
+can usually make noticeable improvements to a package without knowing the full
+details of the project’s API, and there are always improvements to be made in
+documentation.&lt;/p&gt;
+&lt;p&gt;However, it can be hard to figure out how to contribute to a project’s
+documentation. As a part of the Docathon, there are several projects in need
+of some documentation help. Here are some ways that you can help out.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Review tutorials, examples, and written documentation.&lt;/strong&gt; Ideally keeping a
+critical eye open for opportunities to improve the materials. This is an
+excellent opportunity to learn a bit more about your favorite library and
+propose improvements, fix typos, write a new paragraph, or improve one!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Look for issues that are labeled as documentation.&lt;/strong&gt; Many projects have
+a list of issues related to documentation. Check out if there are any
+issues labeled Documentation and new-contributor-friendly, e.g.:
+&lt;a class="reference external" href="https://github.com/matplotlib/matplotlib/issues?q=is%3Aopen+label%3ADocumentation+label%3Anew-contributor-friendly"&gt;https://github.com/matplotlib/matplotlib/issues?q=is%3Aopen+label%3ADocumentation+label%3Anew-contributor-friendly&lt;/a&gt;.
+If you can’t find any, you can always open an issue to offer your services
+as a documenter!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improve API/function documentation.&lt;/strong&gt; API documentation should clearly
+explain the usage and meaning of &lt;em&gt;all&lt;/em&gt; inputs and outputs for functions,
+objects, etc. This is extremely important for ensuring that the package is
+easy to use. However, many packages fall short of this goal. Ensuring that
+the documentation fits a common format (such as numpydoc for Python
+projects) makes this job a lot easier. If the documentation isn’t already
+in a common format then submit an issue suggesting converting the
+documentation, or make this format switch yourself for a few functions in
+a pull-request. If there is already a clear formatting preference in the
+package, then perhaps you can improve under-documented functions or make
+existing documentation clearer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contribute new examples.&lt;/strong&gt; Look through the examples provided in a
+project’s documentation and see if there are any glaring omissions. Is
+there some function that you use that isn’t covered in the examples? If
+so, you could create a short script that shows off the functionality. If
+you see two examples showcasing the same feature, try merging them!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improve the language of examples.&lt;/strong&gt; Many examples / tutorials /
+vignettes are thrown together relatively quickly and are often written in
+an unclear and overly complex way. Check the comments and narrative
+sections of the documents and think about how they could be improved. If
+you see ways to improve the language, open an issue or submit a pull
+request with your suggested changes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;If there are contribution guidelines&lt;/strong&gt;, adhere to them as much as
+possible. This will reduce the amount of time needed to get your
+contribution merged into the main codebase. Either way, try to style any
+new contributions so that they’re similar to what is already there.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We hope this helps you get started!&lt;/p&gt;
+</summary><category term="communication"></category><category term="coding"></category></entry><entry><title>Encouraging user help for the Docathon (and beyond)</title><link href="https://bids.github.io/docathon/encouraging-user-docathon.html" rel="alternate"></link><published>2017-02-24T00:00:00-08:00</published><updated>2017-02-24T00:00:00-08:00</updated><author><name>Chris Holdgraf</name></author><id>tag:bids.github.io,2017-02-24:docathon/encouraging-user-docathon.html</id><summary type="html">&lt;p&gt;Documentation is a great way to get new users and contributors involved in
+your project. It requires less knowledge of the intricacies of your codebase,
+and can be both fun and easily appreciated by others.&lt;/p&gt;
+&lt;p&gt;However, it’s not always clear to people how to contribute documentation. At
+the Docathon there will be many attendees who have experience in coding, but
+aren’t sure where to begin. This is a great opportunity to get some work done
+and to grow your community.&lt;/p&gt;
+&lt;p&gt;A commonly-forgotten part of project documentation is information about how
+users can become developers. Each project has its idiosyncrasies and preferred
+contribution workflow, and this isn’t always obvious to people. We recommend
+the following steps:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Think about your contribution workflow.&lt;/strong&gt; Do you have one? If not, then
+spend some time thinking about how you’d like contributions to occur. If
+anything else, it is helpful to explicitly state that you welcome
+contributions in the form of pull requests.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Make it clear how your documentation is organized.&lt;/strong&gt; It’s good to have
+documentation split up by the scope of its content. E.g., don’t intermingle
+high-level tutorials with examples showing off a specific piece of the API.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Make it obvious what kinds of documentation goes where.&lt;/strong&gt; It will help
+new contributors, and make it easier for new users to use your project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create a “documentation” label, as well as a “new-contributor-friendly”
+label&lt;/strong&gt; for your repository. Come up with some ways in which you’d like
+your documentation to improve (e.g., &lt;tt class="docutils literal"&gt;#32: write an example for the
+statistics module&lt;/tt&gt;, or &lt;tt class="docutils literal"&gt;make docstrings numpydoc compatible&lt;/tt&gt;) and tag it
+with these labels. Along these lines, make your tickets as descriptive,
+clear, and actionable as you can. “Add references to the &lt;tt class="docutils literal"&gt;linear_model&lt;/tt&gt;
+function” is better than “Improve documentation for the &lt;tt class="docutils literal"&gt;linear_model&lt;/tt&gt;
+function”.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Make sure that your project has at least one or two examples&lt;/strong&gt; that can
+be highlighted as “good” forms of documentation. Many users will riff off
+of what is already there, so if you can say “you should make your example
+similar in style and scope to XXX”, it will help them.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Write a short “how to contribute” guide.&lt;/strong&gt; You might link to a guide on
+opening pull-requests in github, then explain if you have any information
+you’d like to see in the pull request.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Finally, don’t be too nitpicky about the PRs that new users make&lt;/strong&gt;, and
+make sure to be friendly to new contributors! Documentation (usually)
+won’t break anything, so don’t let good become an enemy of perfect! Is the
+pull request an improvement? Just press the green button.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Remember - documentation is the first point of contact that most people have
+with your package, so it’s worth putting in time to make it as clear,
+complete, and maintainable as possible!&lt;/p&gt;
+</summary><category term="communication"></category><category term="coding"></category></entry><entry><title>Why host a docathon?</title><link href="https://bids.github.io/docathon/why-host-a-docathon.html" rel="alternate"></link><published>2016-11-10T18:40:00-08:00</published><updated>2016-11-10T18:40:00-08:00</updated><author><name>Chris Holdgraf</name></author><id>tag:bids.github.io,2016-11-10:docathon/why-host-a-docathon.html</id><summary type="html">&lt;p&gt;Learning how to code, how to analyze data, how to do your work openly, and how to collaborate with others requires an incredible amount of self determination. While classes and our colleagues can teach us quite a lot about best practices in programming and the potential that exists in our respective computer languages, we must often rely on ourselves to learn about the tools at our disposal.&lt;/p&gt;
+&lt;p&gt;For this purpose, the first point-of-contact many of us have with a package is its documentation. This can serve as simple &amp;quot;how-to&amp;quot; guide for how a package works and the API that is reveals to the user. It can also serve as a &amp;quot;best-practices&amp;quot; exemplar for how others &amp;quot;should&amp;quot; use a package. Sometimes it can even be an introduction to an entire field.&lt;/p&gt;
+&lt;p&gt;Documentation is important because it's one of the first connections between the human world and the machine world. It helps us effectively translate our concepts and ideas into the languages that we use to control machines. Or, it can be a confusing mess, and hurt more than it helps.&lt;/p&gt;
+&lt;p&gt;We believe that we can do better with documentation. While there are a few shining jewels of well-documented projects, the vast majority deserve to be improved. However, improving documentation is very different from writing better code. It requires the developer to intuitively describe their package and the ways that one might use it, a difficult feat for someone who is mired in the details of their package.&lt;/p&gt;
+&lt;p&gt;This is where the docathon comes in - we hope to be a source of community and inspiration for writing better, human-centric documentation. We exist both as a place learn how to connect our computer code with our users, as well as a place to push one another to improve documentation across the open-source ecosystem.&lt;/p&gt;
+&lt;p&gt;The first docathon will be held in early 2017, as a week long hacking session focused around improving our docs and creating tools to make documenation more effective. It will be focused at UC Berkeley, but we invite individuals from all over the world to join in for this week of intensive improvements to documentation. Whether it be offering a package that could use some help from the community, or simply taking a few hours to work on your own package's tutorials and docstrings, we welcome any and all contributions.&lt;/p&gt;
+&lt;p&gt;Stay tuned in the coming weeks for more information about the first docathon, and how you can help out. We look forward to documenting with you all soon!&lt;/p&gt;
+</summary><category term="communication"></category><category term="coding"></category></entry></feed>

@@ -1,0 +1,52 @@
+div.offset-container {
+    margin-top: 40px;
+}
+
+h1.sitetitle  {
+    font-size: 2em;
+    margin-top: -25px;
+}
+
+div.header_box img {
+    box-shadow: none;
+    margin-right: 20px;
+    float:left;
+    margin-top: -35px;
+    margin-left: 10px;
+}
+
+div.front_button {
+    color: white;
+    background-color: #15A9DB;
+    border-radius: 8px;
+    font-size: 16px;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 25%;
+}
+
+div.page h3 {
+    font-size: 1em;
+    margin-top: 5%;
+}
+
+a.banner_link {
+    font-size: 110% !important;
+}
+
+img.docathon_image {
+    box-shadow: none;
+    margin: auto
+}
+
+div.parrotbox img {
+    float:left;
+}
+
+div.parrotbox {
+    float:left;
+    width:100%;
+}
